@@ -1,0 +1,679 @@
+[2018-11-02 10:45:13] ShadowsocksR started on port 1080
+[2018-11-30 10:16:02] ShadowsocksR started on port 1080
+[2018-11-30 10:16:03] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:05] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:05] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:05] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:05] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:05] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:05] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:09] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:09] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:10] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:11] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:11] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:11] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:11] [Info] Connect raw.githubusercontent.com:443
+[2018-11-30 10:16:12] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:12] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:12] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:12] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:12] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:12] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:12] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:13] [Info] Connect raw.githubusercontent.com:443
+[2018-11-30 10:16:13] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:14] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:14] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:14] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:14] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:14] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:16:14] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:14] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:16:14] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:16:14] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:16:14] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:14] [Info] Connect raw.githubusercontent.com:443
+[2018-11-30 10:16:15] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:15] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:16] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:17] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:17] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:17] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:18] [Info] Connect www.google.com:443
+[2018-11-30 10:16:18] [Info] Connect www.google.com:443
+[2018-11-30 10:16:18] [Info] Connect www.google.com:443
+[2018-11-30 10:16:19] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:19] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:19] [Info] Connect www.google.com:443
+[2018-11-30 10:16:19] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:19] [Info] Connect www.google.com:443
+[2018-11-30 10:16:20] [Info] Disconnect raw.githubusercontent.com:443
+[2018-11-30 10:16:20] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:20] [Info] Connect www.google.com:443
+[2018-11-30 10:16:20] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:16:20] [Info] Connect www.google.com:443
+[2018-11-30 10:16:20] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:20] [Info] Connect raw.githubusercontent.com:443
+[2018-11-30 10:16:20] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:21] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:21] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:21] [Info] Connect www.google.com:443
+[2018-11-30 10:16:21] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:21] [Info] Connect google.com:80
+[2018-11-30 10:16:22] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:22] [Info] Connect raw.githubusercontent.com:443
+[2018-11-30 10:16:22] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:16:22] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:22] [Info] Connect www.google.com:443
+[2018-11-30 10:16:22] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:23] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:16:23] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:23] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:23] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:23] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:23] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:23] [Info] Disconnect www.google.com:443
+[2018-11-30 10:16:23] [Info] Connect google.com:80
+[2018-11-30 10:16:23] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:23] [Info] Connect raw.githubusercontent.com:443
+[2018-11-30 10:16:23] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:23] [Info] Connect www.google.com:443
+[2018-11-30 10:16:24] [Info] Connect www.google.com:443
+[2018-11-30 10:16:24] [Info] Connect www.google.com:443
+[2018-11-30 10:16:25] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:25] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:25] [Info] Connect www.google.com:443
+[2018-11-30 10:16:25] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:16:25] [Info] Connect google.com:80
+[2018-11-30 10:16:25] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:25] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:25] [Info] Connect www.google.com:443
+[2018-11-30 10:16:25] [Info] Connect www.google.com:443
+[2018-11-30 10:16:26] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:26] [Info] Connect www.google.com:443
+[2018-11-30 10:16:26] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:26] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:26] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:26] [Info] Connect www.google.com:443
+[2018-11-30 10:16:26] [Info] Disconnect google.com:80
+[2018-11-30 10:16:27] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:27] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:27] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:27] [Info] Disconnect www.google.com:443
+[2018-11-30 10:16:27] [Info] Disconnect www.google.com:443
+[2018-11-30 10:16:27] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:27] [Info] Disconnect www.google.com:443
+[2018-11-30 10:16:28] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:28] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:16:28] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:28] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:29] [Info] Disconnect raw.githubusercontent.com:443
+[2018-11-30 10:16:29] [Info] Connect raw.githubusercontent.com:443
+[2018-11-30 10:16:29] [Info] Connect www.google.com:443
+[2018-11-30 10:16:30] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:30] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:30] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:30] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:30] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:30] [Info] Connect raw.githubusercontent.com:443
+[2018-11-30 10:16:30] [Info] Disconnect www.google.com:443
+[2018-11-30 10:16:30] [Info] Disconnect www.google.com:443
+[2018-11-30 10:16:31] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:31] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:32] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:32] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:32] [Info] Connect raw.githubusercontent.com:443
+[2018-11-30 10:16:33] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:33] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:33] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:33] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:16:33] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:34] [Info] Disconnect raw.githubusercontent.com:443
+[2018-11-30 10:16:34] [Info] Connect raw.githubusercontent.com:443
+[2018-11-30 10:16:34] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:34] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:34] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:34] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:35] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:35] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:35] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:35] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:35] [Info] Connect raw.githubusercontent.com:443
+[2018-11-30 10:16:35] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:36] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:36] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:36] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:36] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:36] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:36] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:36] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:16:36] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:37] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:37] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:37] [Info] Connect raw.githubusercontent.com:443
+[2018-11-30 10:16:37] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:37] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:38] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:38] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:38] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:38] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:39] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:39] [Info] Disconnect raw.githubusercontent.com:443
+[2018-11-30 10:16:39] [Error] connect to update server error
+[2018-11-30 10:16:39] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:16:39] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:39] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:16:40] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:40] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:16:40] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:40] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:41] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:42] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:16:42] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:42] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:43] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:43] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:43] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:43] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:43] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:44] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:44] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:45] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:45] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:45] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:45] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:45] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:45] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:46] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:46] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:46] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:47] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:47] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:16:47] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:47] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:47] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:49] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:49] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:16:49] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:49] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:49] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:50] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:16:52] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:16:52] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:54] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:54] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:54] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:54] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:54] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:55] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:56] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:56] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:56] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:56] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:56] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:56] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:56] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:56] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:16:56] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:56] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:56] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:57] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:57] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:57] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:57] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:16:57] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:16:57] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:16:57] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:58] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:58] [Info] Connect clients1.google.com:443
+[2018-11-30 10:16:59] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:16:59] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:01] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:01] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:02] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:02] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:02] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:03] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:03] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:03] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:05] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:05] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:05] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:05] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:06] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:06] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:06] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:07] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:07] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:07] [Info] Connect login.live.com:443
+[2018-11-30 10:17:09] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:09] [Info] Connect login.live.com:443
+[2018-11-30 10:17:10] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:10] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:10] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:11] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:11] [Info] Connect login.live.com:443
+[2018-11-30 10:17:11] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:11] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:12] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:12] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:12] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:12] [Info] Disconnect login.live.com:443
+[2018-11-30 10:17:12] [Info] Connect canonicalizer.ucsuri.tcs:80
+[2018-11-30 10:17:12] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:13] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:13] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:14] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:14] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:14] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:14] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:15] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:15] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:15] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:15] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:16] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:16] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:16] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:16] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:16] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:16] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:17] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:17] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:17] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:17] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:17] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:17] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:18] [Info] Connect canonicalizer.ucsuri.tcs:80
+[2018-11-30 10:17:18] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:18] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:18] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:19] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:19] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:19] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:19] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:19] [Info] Connect canonicalizer.ucsuri.tcs:80
+[2018-11-30 10:17:19] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:19] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:20] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:20] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:20] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:20] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:21] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:21] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:21] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:21] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:21] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:21] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:21] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:21] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:21] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:21] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:21] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:22] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:22] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:22] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:22] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:22] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:22] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:23] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:23] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:23] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:23] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:23] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:23] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:23] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:23] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:23] [Info] Disconnect canonicalizer.ucsuri.tcs:80
+[2018-11-30 10:17:24] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:24] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:24] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:24] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:24] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:25] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:25] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:26] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:26] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:26] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:27] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:27] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:28] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:28] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:28] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:28] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:28] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:29] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:29] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:29] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:29] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:29] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:29] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:29] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:30] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:30] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:31] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:31] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:31] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:31] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:31] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:31] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:32] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:33] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:33] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:34] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:34] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:34] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:34] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:35] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:35] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:35] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:35] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:35] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:35] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:35] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:36] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:36] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:36] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:36] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:37] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:37] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:37] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:37] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:38] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:38] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:38] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:38] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:39] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:39] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:39] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:39] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:39] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:39] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:40] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:40] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:40] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:44] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:44] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:44] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:44] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:44] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:44] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:45] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:45] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:45] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:45] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:46] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:46] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:46] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:47] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:47] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:47] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:47] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:48] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:48] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:48] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:48] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:48] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:49] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:49] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:49] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:49] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:50] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:50] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:50] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:50] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:50] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:51] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:51] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:51] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:52] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:52] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:52] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:53] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:53] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:53] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:53] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:53] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:54] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:54] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:55] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:55] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:55] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:55] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:55] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:55] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:55] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:55] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:56] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:56] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:56] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:56] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:56] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:56] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:56] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:56] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:57] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:57] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:57] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:58] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:58] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:58] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:58] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:58] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:17:58] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:58] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:58] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:59] [Info] Connect clients1.google.com:443
+[2018-11-30 10:17:59] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:17:59] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:00] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:00] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:00] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:01] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:01] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:01] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:01] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:02] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:03] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:03] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:03] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:03] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:03] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:03] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:04] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:04] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:05] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:05] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:05] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:05] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:05] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:05] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:06] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:06] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:07] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:07] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:07] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:09] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:09] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:09] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:10] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:10] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:10] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:10] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:10] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:10] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:10] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:11] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:11] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:12] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:12] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:12] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:12] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:12] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:12] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:12] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:13] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:13] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:13] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:13] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:13] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:13] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:13] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:14] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:14] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:14] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:14] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:15] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:15] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:15] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:15] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:15] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:15] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:15] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:15] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:15] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:16] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:16] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:17] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:17] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:17] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:17] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:17] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:17] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:17] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:17] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:17] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:17] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:18] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:18] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:18] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:21] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:21] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:21] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:22] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:22] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:22] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:22] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:22] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:22] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:22] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:23] [Info] Connect hm.baidu.com:443
+[2018-11-30 10:18:23] [Info] Connect eclick.baidu.com:443
+[2018-11-30 10:18:23] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:24] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:24] [Info] Connect m.addthis.com:443
+[2018-11-30 10:18:24] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:25] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:25] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:25] [Info] Connect hm.baidu.com:443
+[2018-11-30 10:18:25] [Info] Connect eclick.baidu.com:443
+[2018-11-30 10:18:25] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:25] [Info] Connect www.baidu.com:443
+[2018-11-30 10:18:25] [Info] Connect www.baidu.com:443
+[2018-11-30 10:18:25] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:26] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:26] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:26] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:26] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:27] [Info] Connect eclick.baidu.com:443
+[2018-11-30 10:18:27] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:27] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:27] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:27] [Info] Connect www.baidu.com:443
+[2018-11-30 10:18:27] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:27] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:27] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:27] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:28] [Info] Connect m.addthis.com:443
+[2018-11-30 10:18:28] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:29] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:29] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:29] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:29] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:29] [Info] Connect www.baidu.com:443
+[2018-11-30 10:18:29] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:29] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:29] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:29] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:29] [Info] Connect m.addthis.com:443
+[2018-11-30 10:18:29] [Info] Connect www.baidu.com:443
+[2018-11-30 10:18:30] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:30] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:30] [Info] Connect hm.baidu.com:443
+[2018-11-30 10:18:30] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:30] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:30] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:30] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:30] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:30] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:31] [Info] Disconnect www.baidu.com:443
+[2018-11-30 10:18:31] [Info] Connect www.baidu.com:443
+[2018-11-30 10:18:31] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:31] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:31] [Info] Disconnect m.addthis.com:443
+[2018-11-30 10:18:31] [Info] Connect www.baidu.com:443
+[2018-11-30 10:18:31] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:32] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:32] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:32] [Info] Disconnect eclick.baidu.com:443
+[2018-11-30 10:18:32] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:32] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:32] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:32] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:32] [Info] Connect www.baidu.com:443
+[2018-11-30 10:18:33] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:33] [Info] Disconnect www.baidu.com:443
+[2018-11-30 10:18:33] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:33] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:33] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:33] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:34] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:34] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:34] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:34] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:35] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:35] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:35] [Info] Disconnect hm.baidu.com:443
+[2018-11-30 10:18:35] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:35] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:36] [Info] Connect www.google.com:443
+[2018-11-30 10:18:36] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:36] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:36] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:36] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:36] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:36] [Info] Connect www.baidu.com:443
+[2018-11-30 10:18:36] [Info] Connect www.baidu.com:443
+[2018-11-30 10:18:37] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:37] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:37] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:37] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:37] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:38] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:38] [Info] Connect www.google.com:443
+[2018-11-30 10:18:38] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:38] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:38] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:38] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:38] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:38] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:38] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:38] [Info] Disconnect www.baidu.com:443
+[2018-11-30 10:18:38] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:38] [Info] Connect www.baidu.com:443
+[2018-11-30 10:18:39] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:39] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:39] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:39] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:39] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:39] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:39] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:39] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:39] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:39] [Info] Connect www.google.com:443
+[2018-11-30 10:18:39] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:39] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:39] [Info] Connect clients1.google.com:443
+[2018-11-30 10:18:40] [Info] Disconnect clients1.google.com:443
+[2018-11-30 10:18:40] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused
+[2018-11-30 10:18:40] [Warn] Proxy server [update_2017.11.13(23.89.227.175)] connection refused

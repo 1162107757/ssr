@@ -1,0 +1,58 @@
+{
+	"configs" : [
+		{
+			"remarks" : "update_2017.11.13",
+			"id" : "7CC03B30B8914E15A1C5F53524FF4A5C",
+			"server" : "45.79.91.64",
+			"server_port" : 8097,
+			"server_udp_port" : 0,
+			"password" : "eIW0Dnk69454e6nSwuspv9DmS201tQ0D",
+			"method" : "aes-256-cfb",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "dXBkYXRlXzIwMTcuMTEuMTM",
+			"group" : "alvin9999",
+			"enable" : true,
+			"udp_over_tcp" : false
+		}
+	],
+	"index" : 0,
+	"random" : false,
+	"sysProxyMode" : 2,
+	"shareOverLan" : false,
+	"localPort" : 1080,
+	"localAuthPassword" : "dU6lTEv4-s4DxFaSWNQ-",
+	"dnsServer" : "",
+	"reconnectTimes" : 2,
+	"randomAlgorithm" : 3,
+	"randomInGroup" : false,
+	"TTL" : 0,
+	"connectTimeout" : 5,
+	"proxyRuleMode" : 0,
+	"proxyEnable" : false,
+	"pacDirectGoProxy" : false,
+	"proxyType" : 0,
+	"proxyHost" : null,
+	"proxyPort" : 0,
+	"proxyAuthUser" : null,
+	"proxyAuthPass" : null,
+	"proxyUserAgent" : null,
+	"authUser" : null,
+	"authPass" : null,
+	"autoBan" : false,
+	"sameHostForSameTarget" : true,
+	"keepVisitTime" : 180,
+	"isHideTips" : true,
+	"nodeFeedAutoUpdate" : false,
+	"serverSubscribes" : [
+
+	],
+	"token" : {
+
+	},
+	"portMap" : {
+
+	}
+}
